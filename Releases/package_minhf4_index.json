@@ -9,7 +9,7 @@
 		"platforms": [{
 			"name": "Minh7a6's STM32",
 			"architecture": "stm32",
-			"version": "0.0.1 Alpha",
+			"version": "0.0.1-alpha",
 			"category": "Contributed",
 			"url": "https://github.com/minh7a6/MINHF4/raw/master/Releases/MINHF4.zip",
 			"archiveFileName": "MinhF4.zip",
