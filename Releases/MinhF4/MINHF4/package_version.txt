@@ -1,0 +1,4 @@
+commit 0a826c37d92db6b8f9e6b58c40788efeb86d2519
+Author: Frederic.Pillon <frederic.pillon@st.com>
+
+    [Nucleo L432KC] Fix wrong typo
