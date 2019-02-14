@@ -13,7 +13,7 @@
 			"category": "Contributed",
 			"url": "https://github.com/minh7a6/MINHF4/raw/master/Releases/MINHF4.zip",
 			"archiveFileName": "MINHF4.zip",
-			"checksum": "SHA-256:87A6DED8AC5703F8B52388707DE5FDFD54E115A031ECA9768E1AFE6DEFC72203",
+			"checksum": "SHA-256:165B0F7A3C69E0494F33E380CDDD48060F05A424E82F96935D73842A7A32BF11",
 			"size": "26350930",
 			"boards": [{
 				"name": "MinhF4"
